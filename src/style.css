@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+  
